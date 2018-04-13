@@ -22,6 +22,7 @@
 		F1B6D2082080E9D90040AE00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1B6D20B2080E9D90040AE00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1B6D20D2080E9D90040AE00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1CC75CA208122C600570C6D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,8 @@
 		F1B6D1F52080E9D40040AE00 = {
 			isa = PBXGroup;
 			children = (
+				F1CC75CB208123BA00570C6D /* Exercises */,
+				F1CC75CA208122C600570C6D /* README.md */,
 				F1B6D2002080E9D40040AE00 /* Light */,
 				F1B6D1FF2080E9D40040AE00 /* Products */,
 			);
@@ -62,6 +65,13 @@
 				F1B6D20D2080E9D90040AE00 /* Info.plist */,
 			);
 			path = Light;
+			sourceTree = "<group>";
+		};
+		F1CC75CB208123BA00570C6D /* Exercises */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Exercises;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
